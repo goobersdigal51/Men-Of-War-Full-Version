@@ -242,4 +242,4 @@ This repository serves as the official landing page for Men of War. The software
 **Get the most recent version of Men of War today!**
 
 ---
-**Last updated:** 2026-10-19 11:46:09 UTC
+**Last updated:** 2026-10-19 18:06:30 UTC
